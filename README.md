@@ -1,2 +1,0 @@
-# ADAResume
-Markup
